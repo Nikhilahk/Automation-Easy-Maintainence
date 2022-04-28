@@ -8,4 +8,7 @@ System.Desktop.Keys("Tab");
 
 System.Desktop.Keys("Tab");
   Log.Message("Hi");
+  
+  Log.Message("Hi");
+  
 }
